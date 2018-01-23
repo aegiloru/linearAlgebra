@@ -83,3 +83,7 @@ x-y
 % Calculando los vectores residuales
 r = b - A*x
 s = b - A*y
+
+% ¿Cuál tiene menos error?
+
+
