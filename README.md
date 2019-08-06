@@ -1,2 +1,2 @@
 # linearAlgebra
-Archivos de Matlab para los alumnos de algebra lineal, primer semestre segundo año carrera de ingeniería en electromecánica
+Materiales para los cursantes de la materia Algebra Lineal.
