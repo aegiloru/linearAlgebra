@@ -12,7 +12,7 @@
 
 %% Ejemplo 1 - Uso de graphviz
 
-% Definición de la matriz de adyacencia
+% DefiniciÃ³n de la matriz de adyacencia
 A_margot_gerritsen=[[1 0 1 0];[0 1 0 1];[1 0 1 1];[1 1 1 1]];
 % Generar un archivo en formato dot
 graph_to_dot(A_margot_gerritsen, 'filename', 'A_margot_gerritsen.gv', 'directed',0)
