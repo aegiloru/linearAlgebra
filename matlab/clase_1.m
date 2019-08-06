@@ -1,6 +1,6 @@
 % Clase 1 - Introduccion al algebra lineal
 % Opciones: matlab o scilab
-% Suma de vectores e interpretación grafica
+% Suma de vectores e interpretaciÃ³n grafica
 % Nombre: Ariel Guerrero
 % Fecha: 19/03/2016
 % Version: 1.0
