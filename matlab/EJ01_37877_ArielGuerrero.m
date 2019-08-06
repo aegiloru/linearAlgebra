@@ -84,6 +84,6 @@ x-y
 r = b - A*x
 s = b - A*y
 
-% ¿Cuál tiene menos error?
+% Â¿CuÃ¡l tiene menos error?
 
 
