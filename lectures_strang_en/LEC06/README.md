@@ -11,7 +11,7 @@ This material uses mathematical visualization to support the understanding of li
 - plane_span_scene.mp4  
 
 ## Key Idea
-\( P = \text{span}\{v, w\} \) is a plane that passes through the origin → subspace.
+$P = \text{span}\{v, w\}$ is a plane that passes through the origin → subspace.
 
 ## Classroom Use
 1. Show the animation  
@@ -42,7 +42,7 @@ Este material utiliza visualización matemática para apoyar la comprensión de 
 - plane_span_scene.mp4  
 
 ## Idea clave
-\( P = \text{span}\{v, w\} \) es un plano que pasa por el origen → subespacio.
+$P = \text{span}\{v, w\}$ es un plano que pasa por el origen → subespacio.
 
 ## Uso en clase
 1. Mostrar la animación  
