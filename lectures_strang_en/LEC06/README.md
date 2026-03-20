@@ -15,3 +15,23 @@ P = span{v, w} es un plano que pasa por el origen → subespacio.
 2. Pausar en el plano
 3. Explicar combinación lineal
 4. Conectar con definición de subespacio
+
+## Assets
+
+- Final animation: `media/plane_span_scene.mp4`
+- Preview image: `media/plane_span_preview.png`
+
+## Source
+
+- Manim scene: `manim/scene_plane_through_origin.py`
+- TikZ figures: `figures_tikz/`
+
+## Assets
+
+- Final animation: `media/plane_span_scene.mp4`
+- Preview image: `media/plane_span_preview.png`
+
+## Source
+
+- Manim scene: `manim/scene_plane_through_origin.py`
+- TikZ figures: `figures_tikz/`
