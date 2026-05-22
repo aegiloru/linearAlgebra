@@ -1,0 +1,10 @@
+name: linear-algebra-octave
+
+channels:
+  - conda-forge
+
+dependencies:
+  - jupyterlab
+  - xeus-octave
+  - octave
+  - gnuplot
