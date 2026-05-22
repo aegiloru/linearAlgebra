@@ -62,3 +62,4 @@ lectures_strang_en/**/manim/media/
 
 # *.mp4
 # *.png.DS_Store
+.ipynb_checkpoints/
