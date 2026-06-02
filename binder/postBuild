@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Instalando entorno Julia para Binder..."
+
+julia --project=binder -e '
+using Pkg
+Pkg.instantiate()
+Pkg.precompile()
+println("Entorno Julia listo.")
+'
